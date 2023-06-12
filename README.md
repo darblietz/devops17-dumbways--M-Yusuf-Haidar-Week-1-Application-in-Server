@@ -40,7 +40,22 @@ Masing-masing mempunyai kelebihan dan kekurangannya :
       func main() {
       fmt.Println("Hello World!")
       }``<br/><br/>![7](https://github.com/darblietz/devops17-dumbways--M-Yusuf-Haidar-Week-1-Linux-Shell/assets/98991080/58f40df7-1451-408e-a34e-e04434353876)
-  8. Sekarang jalankan Aplikasi dengan perintah berikut ``$ go run index.go``<br/><br/>![8](https://github.com/darblietz/devops17-dumbways--M-Yusuf-Haidar-Week-1-Linux-Shell/assets/98991080/7bb33ef6-35ec-49c8-9369-628c679c010f) 
+  8. Sekarang jalankan Aplikasi dengan perintah berikut ``$ go run index.go``<br/><br/>![8](https://github.com/darblietz/devops17-dumbways--M-Yusuf-Haidar-Week-1-Linux-Shell/assets/98991080/7bb33ef6-35ec-49c8-9369-628c679c010f
+
+
+- Python :
+  1. Membuat file terlebih dahulu, dengan command ``$ nano index.py``<br/><br/>![1](https://github.com/darblietz/devops17-dumbways--M-Yusuf-Haidar-Week-1-Linux-Shell/assets/98991080/f8cf098a-65ae-4350-8199-e505c10ed5f8)<br/><br/>
+  2. Masukkan script berikut :<br/>
+     ``from flask import Flask
+     app = Flask(__name__)
+     @app.route("/")
+     def helloworld():
+         return "Hello World"
+     if __name__ == "__main__":
+          app.run()``<br/>![2](https://github.com/darblietz/devops17-dumbways--M-Yusuf-Haidar-Week-1-Linux-Shell/assets/98991080/e4219161-5ff5-482d-8691-01379e195a1f)<br/><br/>
+  3. Setelah exit, maka jalankan aplikasi dengan command berikut $ python3 index.py<br/><br/>![3](https://github.com/darblietz/devops17-dumbways--M-Yusuf-Haidar-Week-1-Linux-Shell/assets/98991080/da109dab-de85-4d44-b720-597e6f33a39c)<br/><br/>
+  4. Tahap terkahir, Lakukan akses ke Web dengan localhost:5000<br/><br/> 
+
 
 
 
