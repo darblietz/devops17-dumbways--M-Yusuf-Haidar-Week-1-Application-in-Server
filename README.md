@@ -54,7 +54,8 @@ Masing-masing mempunyai kelebihan dan kekurangannya :
      if __name__ == "__main__":
           app.run()``<br/>![2](https://github.com/darblietz/devops17-dumbways--M-Yusuf-Haidar-Week-1-Linux-Shell/assets/98991080/e4219161-5ff5-482d-8691-01379e195a1f)<br/><br/>
   3. Setelah exit, maka jalankan aplikasi dengan command berikut $ python3 index.py<br/><br/>![3](https://github.com/darblietz/devops17-dumbways--M-Yusuf-Haidar-Week-1-Linux-Shell/assets/98991080/da109dab-de85-4d44-b720-597e6f33a39c)<br/><br/>
-  4. Tahap terkahir, Lakukan akses ke Web dengan localhost:5000<br/><br/> 
+  4. Tahap terkahir, Lakukan akses ke Web dengan localhost:5000<br/><br/>![4](https://github.com/darblietz/devops17-dumbways--M-Yusuf-Haidar-Week-1-Application-in-Server/assets/98991080/61a15ed9-2009-46ca-9ef1-609d95ef5eda)
+
 
 
 
